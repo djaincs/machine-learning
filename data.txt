@@ -1,0 +1,2 @@
+This is a new file with some data and
+we load this using numpy and convert into array
